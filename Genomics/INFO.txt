@@ -1,0 +1,7 @@
+  This folder contains code for the pilot investigating if genomic data can predict risk-taking behavior. Data was collected by Michael J. Frank at Brown University.
+  
+  There are a few data loading scripts for organizing and preparing the data for analysis.
+  
+  We decided to run simple chi-square tests and t-tests to find general differences in the data. We then set up logistic models and random forests to see if combinations of genes could predict behavior.
+  
+  The data for this project is nopt currently available as data colelction and analysis is not finalized.
