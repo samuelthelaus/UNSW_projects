@@ -1,4 +1,7 @@
 
+# Checking the proportions of penny pickers in experiments
+# And checking how often penny pickers picked pennies
+
 data_list = list(comp_all_7, comp_all_7mm, 
                  comp_all_8, comp_all_8mm,
                  comp_all_9, comp_all_9mm)
