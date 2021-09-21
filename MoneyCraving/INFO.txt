@@ -1,2 +1,1 @@
 This folder contains the scripts for the Money Craving paper by Elise Payzan-LeNestour and James Doran (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545804)
-
