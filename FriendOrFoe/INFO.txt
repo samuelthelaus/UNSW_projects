@@ -1,1 +1,5 @@
-Friend or Foe
+This folder contains code for the project Friend or Foe, which investigates the impact of ambient sound on risk perception.
+
+A part of the project can be found through the following link https://elisepayzan.com/papers/ where it is titled "Impact of Ambient Sound on Risk Perception in Humans: Neuroeconomic Investigations".
+
+The data  for this project is still private as the project is not finalized.
